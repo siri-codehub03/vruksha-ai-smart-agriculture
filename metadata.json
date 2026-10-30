@@ -1,0 +1,8 @@
+{
+  "name": "VRUKSHA AI – Smart Agriculture & Farmer Platform",
+  "description": "Intelligent Indian smart agriculture platform with secure farmer authentication, multilingual Telugu/English support, GPS weather, soil analysis, AI crop doctor, and APMC market prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
